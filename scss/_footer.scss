@@ -1,0 +1,71 @@
+/*FOOTER*/
+.footer {
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    z-index: 1;
+}
+.footer a {
+    color: rgb(235, 235, 235);
+}
+
+.footer .footer-top {
+    padding-top: 9rem;
+    padding-bottom: 5rem;
+}
+.footer .widget-title, .footer .widget-title a {
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: 0.2rem;
+    color: #999;
+}
+.footer .widget-title{
+    padding-bottom: 20px;
+    font-family: 'Satisfy', sans-serif;
+    font-size: 44px;
+    color: #FFB03B;
+}
+.footer .widget, .footer address {
+    color: rgb(255, 255, 255);
+    text-transform: none;
+    font-style: normal;
+    padding-bottom: 15px;
+}
+.footer .navigation, .footer .social-list {
+    float: none;
+    margin-bottom: 20px;
+}
+.list-horizontal li {
+    display: inline-block;
+}
+#contacto{
+    background-color: rgba(221, 221, 221, 0.33);
+}
+.footer .social-list a {
+    font-size: 32px;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    margin: 0 5px;
+}
+
+.footer .tw{
+    color: rgb(47, 255, 255);
+}
+
+.footer .fb{
+    color: rgb(0, 16, 233);
+}
+
+.footer .ig{
+    color: rgb(209, 0, 0);
+}
+
+.footer .wp{
+    color: rgb(75, 189, 0);
+}
+
+.copyright{
+    color: white;
+}
+/*FIN FOOTER*/
